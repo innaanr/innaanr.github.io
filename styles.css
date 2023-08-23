@@ -469,10 +469,12 @@ img {
 
 h2{
   line-height: 2rem;
+  font-weight: bold;
+  letter-spacing: 0;
 }
 
 h5{
-  font-size: 16px;
+  font-size:16px;
 }
 
 p {

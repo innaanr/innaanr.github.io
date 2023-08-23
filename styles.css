@@ -32,10 +32,6 @@ body {
   margin: 0;
   }
 
-h2 {
-  line-height: 4rem;
-}
-
 h3 {
   color: var(--color-blue);
 }
@@ -136,9 +132,7 @@ nav {
 .container-header {
   text-align: center;
   color:var(--color-blue);
-  line-height: 1.5em;
   font-size: 35px;
-  /* letter-spacing: var(--spacing); */
 }
 
 .content {
@@ -471,12 +465,6 @@ img {
   width: 100px;
 }
 
-h2{
-  line-height: 2rem;
-  font-weight: bold;
-  letter-spacing: 0;
-}
-
 h5{
   font-size:16px;
 }
@@ -508,7 +496,7 @@ p {
 }
 
 .container-header {
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .btn-container {

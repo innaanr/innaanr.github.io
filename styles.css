@@ -497,6 +497,8 @@ p {
 
 .container-header {
   font-size: 13px;
+  margin-left: 2rem;
+  margin-right: 2rem;
 }
 
 .btn-container {

@@ -134,7 +134,7 @@ nav {
   color:var(--color-blue);
   line-height: 1.5em;
   font-size: 35px;
-  letter-spacing: var(--spacing);
+  /* letter-spacing: var(--spacing); */
 }
 
 .content {
@@ -505,7 +505,6 @@ p {
 
 .container-header {
   font-size: 14px;
-  letter-spacing: 0;
 }
 
 .btn-container {

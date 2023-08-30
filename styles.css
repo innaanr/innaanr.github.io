@@ -339,8 +339,8 @@ li a:focus {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   border:var(--border);
-  margin-left: 30%;
-  margin-right: 30%;
+  margin-left: 25%;
+  margin-right: 25%;
   margin-top: 1rem;
   margin-bottom: 2rem;
   border-radius:var(--border-radius);
@@ -348,7 +348,10 @@ li a:focus {
 
 .filter-btn {
   display: block;
-  padding: 1rem 0;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  padding-right:1rem;
+  padding-left:1rem;
   border: none;
   text-transform: capitalize;
   font-size: 1rem;
@@ -502,15 +505,19 @@ p {
 
 .btn-container {
   justify-content: center;
-  margin-left: 15%;
-  margin-right: 15%;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 .filter-btn {
-  font-size: 0.5rem;
+  font-size: 13px;
   justify-content: center;
-  padding: 0.5rem 0.5rem;
+  padding-top:0.5rem;
+  padding-right:auto;
+  padding-left:auto;
+  padding-bottom:0.5rem;
 }
+
 
 .work-item {
   width: 90%;

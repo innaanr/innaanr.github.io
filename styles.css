@@ -510,14 +510,9 @@ p {
 }
 
 .filter-btn {
-  font-size: 13px;
+  font-size: 12px;
   justify-content: center;
-  padding-top:0.5rem;
-  padding-right:auto;
-  padding-left:auto;
-  padding-bottom:0.5rem;
-}
-
+  padding: 0.5rem auto;
 
 .work-item {
   width: 90%;

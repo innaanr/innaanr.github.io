@@ -343,7 +343,7 @@ li a:focus {
   margin-left: 30%;
   margin-right: 30%;
   margin-top: 1rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   border-radius:var(--border-radius);
 }  
 
@@ -508,7 +508,7 @@ p {
 }
 
 .filter-btn {
-  font-size: 0.5rem;
+  font-size: 10px;
   justify-content: center;
   padding: 0.5rem 0.5rem;
 }
